@@ -1,0 +1,739 @@
+[
+    {
+        "product": {
+            "productId": 11,
+            "productDesc": "itel A48 (Gradation Green, 2GB RAM, 32GB Storage)",
+            "review" : {
+                "overAllRating" : 3.5,
+                "ratings" : 16,
+                "reviews" : 2
+            },
+            "attributes" : [
+        "Operating System : t1",
+        "Ultra HD (4K) 3840 x 2160 Pixels",
+        "120 Hz Refresh Rate"
+    ]
+        },
+        "seller":"Workload Services",
+        "imageUri":"https://m.media-amazon.com/images/I/41QsvcpKaZL._AC_UY218_.jpg",  
+        "price": {
+            "currentPrice": {
+            "currencyAmount": 5998,
+            "currencyUnit": "INR"
+            },
+            "previousPrice": {
+            "currencyAmount": 6999,
+            "currencyUnit": "INR"
+            },
+            "discountPrice": {
+            "currencyAmount": 1001,
+            "currencyUnit": "INR"
+            },
+            "currentPriceType": "Discounted",
+            "priceDisplayCodes": {
+            "unitPriceDisplayCondition": "(8.8 cents/OZ)",
+            "pricePerUnitUom": "OZ"
+            }
+        },
+        "shippingOptions": {
+            "1-Day": {
+            "currentShipPrice": {
+                "currencyAmount": 500,
+                "currencyUnit": "INR"
+            },
+            "shipPriceDiscount": {
+                "currencyAmount": 200,
+                "currencyUnit": "INR"
+            }
+            },
+            "Two Day": {
+            "currentShipPrice": {
+                "currencyAmount": 500,
+                "currencyUnit": "INR"
+            },
+            "shipPriceDiscount": {
+                "currencyAmount": 300,
+                "currencyUnit": "INR"
+            }
+            },
+            "3-5 Days": {
+            "currentShipPrice": {
+                "currencyAmount": 500,
+                "currencyUnit": "INR"
+            },
+            "shipPriceDiscount": {
+                "currencyAmount": 400,
+                "currencyUnit": "INR"
+            }
+            },
+            "Normal": {
+            "currentShipPrice": {
+                "currencyAmount": 500,
+                "currencyUnit": "INR"
+            },
+            "shipPriceDiscount": {
+                "currencyAmount": 500,
+                "currencyUnit": "INR"
+            }
+            }
+        },
+        "offerFulfillmentOptions": [
+        {
+            "fulfillmentOption": "S2H",
+            "isAvailable": true,
+            "quantity": 85
+        },
+        {
+            "fulfillmentOption": "S2W",
+            "isAvailable": true,
+            "quantity": 85
+        }
+        ],
+        "canAddToCart": true
+    },
+    {
+        "product": {
+            "productId": 12,
+            "productDesc": "New Apple iPhone 12 Mini (128GB) - Black",
+            "review" : {
+                "overAllRating" : 4.5,
+                "ratings" : 440,
+        "reviews" : 56
+    },
+    "attributes" : [
+        "Operating System : t1",
+        "Ultra HD (4K) 3840 x 2160 Pixels",
+        "120 Hz Refresh Rate"
+    ]
+        },
+        "imageUri": "https://m.media-amazon.com/images/I/71uuDYxn3XL._AC_UY218_.jpg",
+        "seller" : "Workload Services",
+        "price": {
+            "currentPrice": {
+                "currencyAmount": 69490,
+                "currencyUnit": "INR"
+                },
+                "previousPrice": {
+                "currencyAmount": 74990,
+                "currencyUnit": "INR"
+                },
+                "discountPrice": {
+                "currencyAmount": 5410,
+                "currencyUnit": "INR"
+                },
+                "currentPriceType": "Discounted",
+                "priceDisplayCodes": {
+                "unitPriceDisplayCondition": "(8.8 cents/OZ)",
+                "pricePerUnitUom": "OZ"
+                }
+        },
+        "shippingOptions": {
+                    "1-Day": {
+                    "currentShipPrice": {
+                        "currencyAmount": 500,
+                        "currencyUnit": "INR"
+                    },
+                    "shipPriceDiscount": {
+                        "currencyAmount": 200,
+                        "currencyUnit": "INR"
+                    }
+                    },
+                    "Two Day": {
+                    "currentShipPrice": {
+                        "currencyAmount": 500,
+                        "currencyUnit": "INR"
+                    },
+                    "shipPriceDiscount": {
+                        "currencyAmount": 300,
+                        "currencyUnit": "INR"
+                    }
+                    },
+                    "3-5 Days": {
+                    "currentShipPrice": {
+                        "currencyAmount": 500,
+                        "currencyUnit": "INR"
+                    },
+                    "shipPriceDiscount": {
+                        "currencyAmount": 400,
+                        "currencyUnit": "INR"
+                    }
+                    },
+                    "Normal": {
+                    "currentShipPrice": {
+                        "currencyAmount": 500,
+                        "currencyUnit": "INR"
+                    },
+                    "shipPriceDiscount": {
+                        "currencyAmount": 500,
+                        "currencyUnit": "INR"
+                    }
+                    }
+        },
+        "offerFulfillmentOptions": [
+        {
+            "fulfillmentOption": "S2H",
+            "isAvailable": true,
+            "quantity": 85
+        },
+        {
+            "fulfillmentOption": "S2W",
+            "isAvailable": true,
+            "quantity": 85
+        }
+        ],
+        "canAddToCart": true
+    },
+    {
+    "product": {
+        "productId": 13,
+        "productDesc": "Redmi 9 (Sky Blue, 4GB RAM, 64GB Storage)",
+        "review" : {
+        "overAllRating" : 4.5,
+        "ratings" : 440,
+        "reviews" : 56
+        },
+        "attributes" : [
+        "Operating System : t1",
+        "Ultra HD (4K) 3840 x 2160 Pixels",
+        "120 Hz Refresh Rate"
+        ]
+    },
+    "imageUri": "https://m.media-amazon.com/images/I/71A9Vo1BatL._AC_UY218_.jpg",
+    "seller" : "Workload Services",
+    "price": {
+        "currentPrice": {
+        "currencyAmount": 8999,
+        "currencyUnit": "INR"
+        },
+        "previousPrice": {
+        "currencyAmount": 10999,
+        "currencyUnit": "INR"
+        },
+        "discountPrice": {
+        "currencyAmount": 2000,
+        "currencyUnit": "INR"
+        },
+        "currentPriceType": "Discounted",
+        "priceDisplayCodes": {
+        "unitPriceDisplayCondition": "(8.8 cents/OZ)",
+        "pricePerUnitUom": "OZ"
+        }
+    },
+    "shippingOptions": {
+                    "1-Day": {
+                    "currentShipPrice": {
+                        "currencyAmount": 500,
+                        "currencyUnit": "INR"
+                    },
+                    "shipPriceDiscount": {
+                        "currencyAmount": 200,
+                        "currencyUnit": "INR"
+                    }
+                    },
+                    "Two Day": {
+                    "currentShipPrice": {
+                        "currencyAmount": 500,
+                        "currencyUnit": "INR"
+                    },
+                    "shipPriceDiscount": {
+                        "currencyAmount": 300,
+                        "currencyUnit": "INR"
+                    }
+                    },
+                    "3-5 Days": {
+                    "currentShipPrice": {
+                        "currencyAmount": 500,
+                        "currencyUnit": "INR"
+                    },
+                    "shipPriceDiscount": {
+                        "currencyAmount": 400,
+                        "currencyUnit": "INR"
+                    }
+                    },
+                    "Normal": {
+                    "currentShipPrice": {
+                        "currencyAmount": 500,
+                        "currencyUnit": "INR"
+                    },
+                    "shipPriceDiscount": {
+                        "currencyAmount": 500,
+                        "currencyUnit": "INR"
+                    }
+                    }
+    },
+    "offerFulfillmentOptions": [
+        {
+            "fulfillmentOption": "S2H",
+            "isAvailable": true,
+            "quantity": 85
+        },
+        {
+            "fulfillmentOption": "S2W",
+            "isAvailable": true,
+            "quantity": 85
+        }
+    ],
+    "canAddToCart": true
+    
+    },
+    {
+    "product": {
+        "productId": 14,
+        "productDesc": "Oppo A31 (Fantasy White, 6GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers",
+        "review" : {
+        "overAllRating" : 4,
+        "ratings" : 2972,
+        "reviews" : 350
+        },
+        "attributes" : [
+        "Operating System : t1",
+        "Ultra HD (4K) 3840 x 2160 Pixels",
+        "120 Hz Refresh Rate"
+        ]
+    },
+    "price": {
+        "currentPrice": {
+        "currencyAmount": 11990,
+        "currencyUnit": "INR"
+        },
+        "previousPrice": {
+        "currencyAmount": 15990,
+        "currencyUnit": "INR"
+        },
+        "discountPrice": {
+        "currencyAmount": 4000,
+        "currencyUnit": "INR"
+        },
+        "currentPriceType": "Discounted",
+        "priceDisplayCodes": {
+        "unitPriceDisplayCondition": "(8.8 cents/OZ)",
+        "pricePerUnitUom": "OZ"
+        }
+    },
+   "shippingOptions": {
+                    "1-Day": {
+                    "currentShipPrice": {
+                        "currencyAmount": 500,
+                        "currencyUnit": "INR"
+                    },
+                    "shipPriceDiscount": {
+                        "currencyAmount": 200,
+                        "currencyUnit": "INR"
+                    }
+                    },
+                    "Two Day": {
+                    "currentShipPrice": {
+                        "currencyAmount": 500,
+                        "currencyUnit": "INR"
+                    },
+                    "shipPriceDiscount": {
+                        "currencyAmount": 300,
+                        "currencyUnit": "INR"
+                    }
+                    },
+                    "3-5 Days": {
+                    "currentShipPrice": {
+                        "currencyAmount": 500,
+                        "currencyUnit": "INR"
+                    },
+                    "shipPriceDiscount": {
+                        "currencyAmount": 400,
+                        "currencyUnit": "INR"
+                    }
+                    },
+                    "Normal": {
+                    "currentShipPrice": {
+                        "currencyAmount": 500,
+                        "currencyUnit": "INR"
+                    },
+                    "shipPriceDiscount": {
+                        "currencyAmount": 500,
+                        "currencyUnit": "INR"
+                    }
+                    }
+        },
+        "offerFulfillmentOptions": [
+        {
+            "fulfillmentOption": "S2H",
+            "isAvailable": true,
+            "quantity": 85
+        },
+        {
+            "fulfillmentOption": "S2W",
+            "isAvailable": true,
+            "quantity": 85
+        }
+        ],
+        "canAddToCart": true,
+    "imageUri": "https://m.media-amazon.com/images/I/61CnyJ-IbML._AC_UY218_.jpg",
+    "seller" : "Workload Services"
+    },
+    {
+    "product": {
+        "productId": 15,
+        "productDesc": "Redmi 9A (Nature Green, 2GB Ram, 32GB Storage) | 2GHz Octa-core Helio G25 Processor",
+        "review" : {
+        "overAllRating" : 4,
+        "ratings" : 2972,
+        "reviews" : 350
+        },
+        "attributes" : [
+        "Operating System : t1",
+        "Ultra HD (4K) 3840 x 2160 Pixels",
+        "120 Hz Refresh Rate"
+        ]
+    },
+    "price": {
+        "currentPrice": {
+        "currencyAmount": 6999,
+        "currencyUnit": "INR"
+        },
+        "previousPrice": {
+        "currencyAmount": 8499,
+        "currencyUnit": "INR"
+        },
+        "discountPrice": {
+        "currencyAmount": 1500,
+        "currencyUnit": "INR"
+        },
+        "currentPriceType": "Discounted",
+        "priceDisplayCodes": {
+        "unitPriceDisplayCondition": "(8.8 cents/OZ)",
+        "pricePerUnitUom": "OZ"
+        }
+    },
+    "shippingOptions": {
+                    "1-Day": {
+                    "currentShipPrice": {
+                        "currencyAmount": 500,
+                        "currencyUnit": "INR"
+                    },
+                    "shipPriceDiscount": {
+                        "currencyAmount": 200,
+                        "currencyUnit": "INR"
+                    }
+                    },
+                    "Two Day": {
+                    "currentShipPrice": {
+                        "currencyAmount": 500,
+                        "currencyUnit": "INR"
+                    },
+                    "shipPriceDiscount": {
+                        "currencyAmount": 300,
+                        "currencyUnit": "INR"
+                    }
+                    },
+                    "3-5 Days": {
+                    "currentShipPrice": {
+                        "currencyAmount": 500,
+                        "currencyUnit": "INR"
+                    },
+                    "shipPriceDiscount": {
+                        "currencyAmount": 400,
+                        "currencyUnit": "INR"
+                    }
+                    },
+                    "Normal": {
+                    "currentShipPrice": {
+                        "currencyAmount": 500,
+                        "currencyUnit": "INR"
+                    },
+                    "shipPriceDiscount": {
+                        "currencyAmount": 500,
+                        "currencyUnit": "INR"
+                    }
+                    }
+        },
+        "offerFulfillmentOptions": [
+        {
+            "fulfillmentOption": "S2H",
+            "isAvailable": true,
+            "quantity": 85
+        },
+        {
+            "fulfillmentOption": "S2W",
+            "isAvailable": true,
+            "quantity": 85
+        }
+        ],
+        "canAddToCart": true,
+    "imageUri": "https://m.media-amazon.com/images/I/71hDPUM7VPL._AC_UY218_.jpg",
+    "seller" : "Workload Services"
+    },
+    {
+    "product": {
+        "productId": 16,
+        "productDesc": "Samsung Galaxy M21 (Midnight Blue, 4GB RAM, 64GB Storage)",
+        "review" : {
+        "overAllRating" : 4,
+        "ratings" : 8159,
+        "reviews" : 1500
+        },
+        "attributes" : [
+        "Operating System : t1",
+        "Ultra HD (4K) 3840 x 2160 Pixels",
+        "120 Hz Refresh Rate"
+        ]
+    },
+    "price": {
+        "currentPrice": {
+        "currencyAmount": 12999,
+        "currencyUnit": "INR"
+        },
+        "previousPrice": {
+        "currencyAmount": 15999,
+        "currencyUnit": "INR"
+        },
+        "discountPrice": {
+        "currencyAmount": 3000,
+        "currencyUnit": "INR"
+        },
+        "currentPriceType": "Discounted",
+        "priceDisplayCodes": {
+        "unitPriceDisplayCondition": "(8.8 cents/OZ)",
+        "pricePerUnitUom": "OZ"
+        }
+    },
+    "shippingOptions": {
+                    "1-Day": {
+                    "currentShipPrice": {
+                        "currencyAmount": 500,
+                        "currencyUnit": "INR"
+                    },
+                    "shipPriceDiscount": {
+                        "currencyAmount": 200,
+                        "currencyUnit": "INR"
+                    }
+                    },
+                    "Two Day": {
+                    "currentShipPrice": {
+                        "currencyAmount": 500,
+                        "currencyUnit": "INR"
+                    },
+                    "shipPriceDiscount": {
+                        "currencyAmount": 300,
+                        "currencyUnit": "INR"
+                    }
+                    },
+                    "3-5 Days": {
+                    "currentShipPrice": {
+                        "currencyAmount": 500,
+                        "currencyUnit": "INR"
+                    },
+                    "shipPriceDiscount": {
+                        "currencyAmount": 400,
+                        "currencyUnit": "INR"
+                    }
+                    },
+                    "Normal": {
+                    "currentShipPrice": {
+                        "currencyAmount": 500,
+                        "currencyUnit": "INR"
+                    },
+                    "shipPriceDiscount": {
+                        "currencyAmount": 500,
+                        "currencyUnit": "INR"
+                    }
+                    }
+        },
+        "offerFulfillmentOptions": [
+        {
+            "fulfillmentOption": "S2H",
+            "isAvailable": true,
+            "quantity": 85
+        },
+        {
+            "fulfillmentOption": "S2W",
+            "isAvailable": true,
+            "quantity": 85
+        }
+        ],
+        "canAddToCart": true,
+    "imageUri": "https://m.media-amazon.com/images/I/71dujTTJDZL._AC_UY218_.jpg",
+    "seller" : "Workload Services"
+    },
+    {
+    "product": {
+        "productId": 17,
+        "productDesc": "Panasonic Eluga i7 (2GB RAM, 16GB Storage, Finger Print Sensor, 4000mAh Battery) (Black)",
+        "review" : {
+        "overAllRating" : 3,
+        "ratings" : 1232,
+        "reviews" : 356
+        },
+        "attributes" : [
+        "Operating System : t1",
+        "Ultra HD (4K) 3840 x 2160 Pixels",
+        "120 Hz Refresh Rate"
+        ]
+    },
+    "price": {
+        "currentPrice": {
+        "currencyAmount": 5000,
+        "currencyUnit": "INR"
+        },
+        "previousPrice": {
+        "currencyAmount": 10999,
+        "currencyUnit": "INR"
+        },
+        "discountPrice": {
+        "currencyAmount": 5999,
+        "currencyUnit": "INR"
+        },
+        "currentPriceType": "Discounted",
+        "priceDisplayCodes": {
+        "unitPriceDisplayCondition": "(8.8 cents/OZ)",
+        "pricePerUnitUom": "OZ"
+        }
+    },
+    "shippingOptions": {
+                    "1-Day": {
+                    "currentShipPrice": {
+                        "currencyAmount": 500,
+                        "currencyUnit": "INR"
+                    },
+                    "shipPriceDiscount": {
+                        "currencyAmount": 200,
+                        "currencyUnit": "INR"
+                    }
+                    },
+                    "Two Day": {
+                    "currentShipPrice": {
+                        "currencyAmount": 500,
+                        "currencyUnit": "INR"
+                    },
+                    "shipPriceDiscount": {
+                        "currencyAmount": 300,
+                        "currencyUnit": "INR"
+                    }
+                    },
+                    "3-5 Days": {
+                    "currentShipPrice": {
+                        "currencyAmount": 500,
+                        "currencyUnit": "INR"
+                    },
+                    "shipPriceDiscount": {
+                        "currencyAmount": 400,
+                        "currencyUnit": "INR"
+                    }
+                    },
+                    "Normal": {
+                    "currentShipPrice": {
+                        "currencyAmount": 500,
+                        "currencyUnit": "INR"
+                    },
+                    "shipPriceDiscount": {
+                        "currencyAmount": 500,
+                        "currencyUnit": "INR"
+                    }
+                    }
+        },
+        "offerFulfillmentOptions": [
+        {
+            "fulfillmentOption": "S2H",
+            "isAvailable": true,
+            "quantity": 85
+        },
+        {
+            "fulfillmentOption": "S2W",
+            "isAvailable": true,
+            "quantity": 85
+        }
+        ],
+        "canAddToCart": true,
+    "imageUri": "https://m.media-amazon.com/images/I/41QsvcpKaZL._AC_UY218_.jpg",
+    "seller" : "Workload Services"
+    },
+    {
+    "product": {
+        "productId": 18,
+        "productDesc": "Lava Z1 (2GBRAM, 16GB Storage) Denim Blue",
+        "review" : {
+        "overAllRating" : 3.5,
+        "ratings" : 11,
+        "reviews" : 0
+        },
+        "attributes" : [
+        "Operating System : t1",
+        "Ultra HD (4K) 3840 x 2160 Pixels",
+        "120 Hz Refresh Rate"
+        ]
+    },
+    "price": {
+        "currentPrice": {
+        "currencyAmount": 4999,
+        "currencyUnit": "INR"
+        },
+        "previousPrice": {
+        "currencyAmount": 5999,
+        "currencyUnit": "INR"
+        },
+        "discountPrice": {
+        "currencyAmount": 1000,
+        "currencyUnit": "INR"
+        },
+        "currentPriceType": "Discounted",
+        "priceDisplayCodes": {
+        "unitPriceDisplayCondition": "(8.8 cents/OZ)",
+        "pricePerUnitUom": "OZ"
+        }
+    },
+    "shippingOptions": {
+                    "1-Day": {
+                    "currentShipPrice": {
+                        "currencyAmount": 500,
+                        "currencyUnit": "INR"
+                    },
+                    "shipPriceDiscount": {
+                        "currencyAmount": 200,
+                        "currencyUnit": "INR"
+                    }
+                    },
+                    "Two Day": {
+                    "currentShipPrice": {
+                        "currencyAmount": 500,
+                        "currencyUnit": "INR"
+                    },
+                    "shipPriceDiscount": {
+                        "currencyAmount": 300,
+                        "currencyUnit": "INR"
+                    }
+                    },
+                    "3-5 Days": {
+                    "currentShipPrice": {
+                        "currencyAmount": 500,
+                        "currencyUnit": "INR"
+                    },
+                    "shipPriceDiscount": {
+                        "currencyAmount": 400,
+                        "currencyUnit": "INR"
+                    }
+                    },
+                    "Normal": {
+                    "currentShipPrice": {
+                        "currencyAmount": 500,
+                        "currencyUnit": "INR"
+                    },
+                    "shipPriceDiscount": {
+                        "currencyAmount": 500,
+                        "currencyUnit": "INR"
+                    }
+                    }
+        },
+        "offerFulfillmentOptions": [
+        {
+            "fulfillmentOption": "S2H",
+            "isAvailable": true,
+            "quantity": 85
+        },
+        {
+            "fulfillmentOption": "S2W",
+            "isAvailable": true,
+            "quantity": 85
+        }
+        ],
+        "canAddToCart": true,
+    "imageUri": "https://m.media-amazon.com/images/I/71d0jx4d9dL._AC_UY218_.jpg",
+    "seller" : "Workload Services"
+    }
+]
